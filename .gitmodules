@@ -1,0 +1,12 @@
+[submodule "Beirdo-KiCad-Libraries"]
+	path = Beirdo-KiCad-Libraries
+	url = https://github.com/Beirdo/KiCad-Libraries
+[submodule "KiCad-RP-Pico"]
+	path = KiCad-RP-Pico
+	url = https://github.com/ncarandini/KiCad-RP-Pico
+[submodule "KiCad-SSD1306-128x64"]
+	path = KiCad-SSD1306-128x64
+	url = https://github.com/Beirdo/KiCad-SSD1306-128x64
+[submodule "SparkFun-KiCad-Libraries"]
+	path = SparkFun-KiCad-Libraries
+	url = https://github.com/Beirdo/SparkFun-KiCad-Libraries
